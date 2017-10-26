@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>host</key>
+	<string>preencher</string>
+	<key>appid</key>
+	<string>preencher</string>
+	<key>projectid</key>
+	<string>preencher</string>
+	<key>appkey</key>
+	<string>preencher</string>
+	<key>connectiontag</key>
+	<string>preencher</string>
+</dict>
+</plist>
