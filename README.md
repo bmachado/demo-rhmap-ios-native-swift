@@ -1,16 +1,12 @@
 # blank-ios-app
-[![Build Status](https://travis-ci.org/feedhenry-templates/blank-ios-app.png)](https://travis-ci.org/feedhenry-templates/blank-ios-app)
-
-> Obj-C version is available [here](https://github.com/feedhenry-templates/blank-ios-app/).
-
-Author: Corinne Krych, Daniel Passos   
+Author: Bruno Machado, based on blank-ios-app by Corinne Krych, Daniel Passos   
 Level: Intermediate  
-Technologies: Swift 3, iOS, RHMAP, CocoaPods.
+Technologies: Swift 3, iOS, RHMAP, CocoaPods, Alamofire.
 Summary: A demonstration of how to get started with RHMAP.
 Community Project : [Feed Henry](http://feedhenry.org)
 Target Product: RHMAP  
 Product Versions: RHMAP 3.7.0+   
-Source: https://github.com/feedhenry-templates/blank-ios-app  
+Source: https://github.com/bmachado/demo-rhmap-ios-native-swift
 Prerequisites: fh-ios-swift-sdk : 5+, Xcode : 8+, iOS SDK : iOS8+, CocoaPods: 1.1.0+
 
 ## What is it?
